@@ -21,3 +21,11 @@ You can use the train_cifar.sh and train_im.sh file to train BSO.
 
 ### Citation
 If you find this project useful in your research, please consider cite.
+```
+@article{liang2025bso,
+  title={BSO: Binary Spiking Online Optimization Algorithm},
+  author={Liang, Yu and Yang, Yu and Wei, Wenjie and Belatreche, Ammar and Wang, Shuai and Zhang, Malu and Yang, Yang},
+  journal={arXiv preprint arXiv:2511.12502},
+  year={2025}
+}
+```
